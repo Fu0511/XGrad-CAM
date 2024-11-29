@@ -3,7 +3,7 @@
 Code for the paper:
 ### [Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs](https://arxiv.org/pdf/2008.02312v4)
 
-to be presented at **BMVC 2020**,
+Oral at **BMVC 2020**,
 <br>
 Authors:
 <br>
